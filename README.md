@@ -22,8 +22,6 @@ Browsers:
 - Latest Opera
 - Latest Safari
 =======
-# aska
-Administrasi System Kepegawaian
->>>>>>> 0c5450982cc9f258ed2d61347d8064c9dca8fef2
+# AINO_VM
+Ini merupakan remake/redesign dari sistem administrasi kepegawaian
 
-See Demo http://aska.andeznet.com
